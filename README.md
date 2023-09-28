@@ -1,4 +1,4 @@
-Datasets of Annotated Semantic Relationships
+[Datasets of Annotated Semantic Relationships
 ============================================
 
 This repository contains annotated datasets which can be used to train supervised models for the task of semantic relationship extraction. If you know any more datasets, and want to contribute, please, notify me or submit a PR.
@@ -22,7 +22,7 @@ It's divided in 3 groups:
 | [ReRelEM.tar.gz](datasets/ReRelEM.tar.gz) | 4 | Portuguese | 2009 | [Relation detection between named entities: report of a shared task](papers/FreitasetalSEW2009.pdf) |
 | [SemEval2010_task8_all_data.tar.gz](datasets/SemEval2010_task8_all_data.tar.gz) | 10 / 19 (directional) | English | 2010 | [SemEval-2010 Task 8: Multi-Way Classification of Semantic Relations Between Pairs of Nominals](papers/semeval.pdf)
 | [BioNLP.tar.gz](datasets/BioNLP.tar.gz) | 2 | English | 2011 | [Overview of BioNLP Shared Task 2011](papers/W11-1801.pdf) |
-| [DDICorpus2013.zip](datasets/DDICorpus2013.zip) | 4 | English | 2012 | [The DDI corpus: An annotated corpus with pharmacological substances and drug–drug interactions](papers/1-s2.0-S1532046413001123-main.pdf) |
+| [DDICorpus2013.zip](datasets/DDICorpus2013.zip) | 4 | English | 2012 | [The DDI corpus: An annotated corpus with pharmacological substances and drug–drug interactions](papers/1-s2.0-S1532046413001123-main.pdf) |](https://github.com/Filomena-Sacomboio/projecto-grandesdados)
 | [ADE-Corpus-V2.zip](datasets/ADE-Corpus-V2.zip) | 2 | English | 2013 | [Development of a benchmark corpus to support the automatic extraction of drug-related adverse effects from medical case reports](papers/ADE-V2.pdf) |
 | [DBpediaRelations-PT-0.2.txt.bz2](datasets/DBpediaRelations-PT-0.2.txt.bz2)| 10 | Portuguese | 2013 |[Exploring DBpedia and Wikipedia for Portuguese Semantic Relationship Extraction](papers/minwise-linguamtica-13.pdf)|
 | [kbp37-master.zip](datasets/kbp37-master.zip) | 37 directional | English | 2015 | [Relation Classification via Recurrent Neural Network](papers/KBP37.pdf) |
